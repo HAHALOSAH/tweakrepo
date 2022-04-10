@@ -1,0 +1,16 @@
+Package: org.hahalosah.nofreeapplimit
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: HAHALOSAH
+Installed-Size: 216
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./tweaks/NoFreeAppLimit/org.hahalosah.nofreeapplimit_0.0.1_iphoneos-arm.deb
+Size: 3998
+MD5sum: 3aee04b43b30a6da68760fa34a3a53c5
+SHA1: 966758aa37f741592f1fe538836e505cc9af177f
+SHA256: 533e5ed708c6acd041a07330a0e9eaffe934c0670f81cf8ea66ed554415b3944
+Section: Tweaks
+Description: Removes the 3 app limit for free developer accounts
+Author: HAHALOSAH
+Name: NoFreeAppLimit
+
